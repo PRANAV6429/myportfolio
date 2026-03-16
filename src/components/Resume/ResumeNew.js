@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Particle from "../Particle";
-import pdf from "../../Assets/PranavSaiAditya Resume (4).pdf";
+import pdf from "../../Assets/PranavSaiAditya Resume (5).pdf";
 import { AiOutlineDownload, AiFillMail, AiFillGithub, AiFillLinkedin, AiFillPhone } from "react-icons/ai";
 import { motion, AnimatePresence } from "framer-motion";
 
