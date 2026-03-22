@@ -4,10 +4,10 @@ import { motion, AnimatePresence } from "framer-motion";
 import { AiOutlineLink, AiOutlineCloudServer, AiOutlineSafetyCertificate } from "react-icons/ai";
 import { FiExternalLink } from "react-icons/fi";
 
-import certSAA from "../Assets/cert_aws_saa.png";
-import certCP from "../Assets/cert_aws_cp.png";
-import certDevOps from "../Assets/cert_udemy_devops.png";
-import certTraining from "../Assets/cert_aws_training.png";
+import certSAA from "../Assets/Cloud SAA.png";
+import certCP from "../Assets/Cloud Pract.png";
+import certDevOps from "../Assets/DevOps cr.png";
+import certTraining from "../Assets/Cloud Train.png";
 
 const certifications = [
   {
