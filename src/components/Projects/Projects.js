@@ -82,7 +82,7 @@ const projectsData = [
     img: emotion,
     title: "Fitness Streak",
     tag: "WEB · HEALTH",
-    date: " Feb2024",
+    date: " Feb 2024",
     description:
       "A fitness-focused web application with activity tracking, workout suggestions, and streak-based motivation to help users build healthy habits consistently.",
     tech: ["HTML", "CSS", "JavaScript"],
