@@ -30,7 +30,7 @@ const projectsData = [
     img: bitsOfCode,
     title: "Terraform EC2 Web Server",
     tag: "IAC · TERRAFORM · AWS",
-    date: "2025",
+    date: "Nov 2025",
     description:
       "Architected a cloud-hosted web server setup to automate 100% of the provisioning workflow. Applied Infrastructure-as-Code principles with Terraform to reduce manual operations by 80%, deploying EC2 instances with security groups and VPC networking.",
     tech: ["Terraform", "AWS EC2", "VPC", "IAM", "Bash"],
@@ -43,7 +43,7 @@ const projectsData = [
     img: suicide,
     title: "AWS Lift & Shift Migration",
     tag: "AWS · MIGRATION · CLOUD",
-    date: "2025",
+    date: " Mar 2025",
     description:
       "Migrated an existing on-premises application to AWS with minimal modifications to leverage cloud benefits like scalability, reliability, and cost-efficiency. Configured VPC, EC2, S3, RDS, and Route 53 for a complete cloud deployment.",
     tech: ["AWS", "EC2", "S3", "RDS", "Route 53", "VPC"],
@@ -56,7 +56,7 @@ const projectsData = [
     img: editor,
     title: "Order Tracker Chatbot",
     tag: "FULLSTACK · REACT · TS",
-    date: "2025",
+    date: "Mar 2025",
     description:
       "A real-time order tracking and customer support chatbot system built with React, TypeScript, and Tailwind CSS. Features intelligent routing, live status updates, and a clean conversational UI.",
     tech: ["React", "TypeScript", "Tailwind CSS", "Node.js"],
@@ -69,7 +69,7 @@ const projectsData = [
     img: leaf,
     title: "BookEra",
     tag: "WEB · FULLSTACK",
-    date: "2024",
+    date: " Dec 2024",
     description:
       "A full-stack book recommendation platform with online PDF reading and Amazon purchase integration. Built to help users discover, read, and buy books seamlessly in one place.",
     tech: ["HTML", "CSS", "JavaScript", "Node.js"],
@@ -82,7 +82,7 @@ const projectsData = [
     img: emotion,
     title: "Fitness Streak",
     tag: "WEB · HEALTH",
-    date: "2024",
+    date: " Feb2024",
     description:
       "A fitness-focused web application with activity tracking, workout suggestions, and streak-based motivation to help users build healthy habits consistently.",
     tech: ["HTML", "CSS", "JavaScript"],
