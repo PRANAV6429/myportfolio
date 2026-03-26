@@ -1,6 +1,6 @@
 import React from "react";
 // Please ensure your new photo is named 'profile.jpg' and placed in the 'src/Assets' folder.
-import myPhoto from "../../Assets/profile.jpg";
+import myPhoto from "../../Assets/profile photo.jpg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
