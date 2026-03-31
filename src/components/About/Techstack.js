@@ -1,56 +1,42 @@
 import React from "react";
-import { SiNextdotjs, SiSolidity } from "react-icons/si";
-import { FaRust } from "react-icons/fa";
+import { SiSpringboot, SiGnubash, SiMysql, SiNextdotjs } from "react-icons/si";
 import Go from "../../Assets/TechIcons/go.svg";
 import C from "../../Assets/TechIcons/C++.svg";
 import Javascript from "../../Assets/TechIcons/Javascript.svg";
 import Node from "../../Assets/TechIcons/Node.svg";
 import ReactIcon from "../../Assets/TechIcons/React.svg";
-import HaskellIcon from "../../Assets/TechIcons/Haskell.svg";
 import Java from "../../Assets/TechIcons/Java.svg";
 import Python from "../../Assets/TechIcons/Python.svg";
 import Typescript from "../../Assets/TechIcons/Typescript.svg";
-import Git from "../../Assets/TechIcons/Git.svg";
-import Firebase from "../../Assets/TechIcons/Firebase.svg";
-import Redis from "../../Assets/TechIcons/Redis.svg";
-import Docker from "../../Assets/TechIcons/Docker.svg";
 import Mongo from "../../Assets/TechIcons/Mongo.svg";
-import SQL from "../../Assets/TechIcons/SQL.svg";
-import Kubernates from "../../Assets/TechIcons/Kubernates.svg";
-import Redux from "../../Assets/TechIcons/Redux.svg";
+import SQL from "../../Assets/TechIcons/SQL.svg"; // PostgreSQL
 import Tailwind from "../../Assets/TechIcons/Tailwind.svg";
+import Firebase from "../../Assets/TechIcons/Firebase.svg";
+import Redux from "../../Assets/TechIcons/Redux.svg";
 import MUI from "../../Assets/TechIcons/MUI.svg";
 import Postman from "../../Assets/TechIcons/Postman.svg";
-import AWS from "../../Assets/TechIcons/AWS.svg";
-import Kafka from "../../Assets/TechIcons/Kafka.svg";
 
 function Techstack() {
   const techData = [
     { name: "C++", img: C },
+    { name: "Python", img: Python },
+    { name: "Java", img: Java },
     { name: "Javascript", img: Javascript },
     { name: "Typescript", img: Typescript },
     { name: "Go", img: Go },
     { name: "Node.Js", img: Node },
     { name: "React.Js", img: ReactIcon },
-    { name: "Solidity", icon: <SiSolidity className="text-4xl" /> },
-    { name: "Mongo DB", img: Mongo },
-    { name: "Redux", img: Redux },
     { name: "Next.js", icon: <SiNextdotjs className="text-4xl" /> },
-    { name: "Git", img: Git },
-    { name: "Firebase", img: Firebase },
-    { name: "Redis", img: Redis },
-    { name: "Docker", img: Docker },
-    { name: "Kubernetes", img: Kubernates },
+    { name: "Spring Boot", icon: <SiSpringboot className="text-4xl" /> },
+    { name: "Bash", icon: <SiGnubash className="text-4xl" /> },
+    { name: "MongoDB", img: Mongo },
     { name: "PostgreSQL", img: SQL },
-    { name: "Python", img: Python },
-    { name: "Java", img: Java },
-    { name: "Haskell", img: HaskellIcon },
+    { name: "MySQL", icon: <SiMysql className="text-4xl" /> },
+    { name: "Firebase", img: Firebase },
+    { name: "Redux", img: Redux },
     { name: "Tailwind CSS", img: Tailwind },
     { name: "Material UI", img: MUI },
     { name: "Postman", img: Postman },
-    { name: "Rust", icon: <FaRust className="text-4xl" /> },
-    { name: "AWS", img: AWS },
-    { name: "Kafka", img: Kafka },
   ];
 
   return (
